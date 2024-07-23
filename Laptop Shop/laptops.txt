@@ -1,0 +1,5 @@
+XPS15           ,Dell     ,$2500,400,i7 9th Gen,RTX 3040
+Nitro7          ,Acer     ,$1500,50,i6 7th Gen,RTX 3050
+ThinkPad        ,Lenovo   ,$2000,200,i5 8th Gen,RTX 3060
+VivoBook        ,Asus     ,$3500,400,i5 1th Gen,RTX 3070
+Macbook Pro 16  ,Apple    ,$4000,100,i7 8th Gen,RTX 3080
